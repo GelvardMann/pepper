@@ -1,0 +1,258 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Roboto;
+}
+body, {
+	padding: 0px;
+	margin: 0px;
+	font-family: Roboto;
+	background-color: #ddd;
+}
+.shadow {
+	width: 1219px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0px 50px #020202;
+
+}
+ p {
+	 margin: 0px;
+ }
+
+ul li  {
+	display: inline-block;
+	list-style: none;
+	}
+
+li {
+	margin-right: 10px;
+}
+header {
+	background-color: #007765;
+	position: sticky;
+	top: 0;
+	width: 100%;
+	opacity: 1;
+	z-index: 1;
+}
+nav {
+	background-color: #007765;
+	margin-left: auto;
+	margin-right: auto;
+	height: 84px;
+
+
+	width: 100%;
+	min-width: 700px;
+
+	padding-bottom: 0px;
+
+}
+.logo_menu{
+	padding-top: 22px;
+	padding-left: 10px;
+	width: 184px;
+	height: 45px;
+}
+
+ul {
+	float: right;
+	padding-top: 15px;
+	padding-bottom: 0;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+   }
+
+a:hover {
+    color: #00d1b0;
+    text-decoration: none;
+}
+.main_menu {
+	color: white;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 24px;
+	text-align: center;
+
+}
+.wrapper_logo {
+
+	height: 403px;
+	max-width: 1219px;
+	min-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #1a3f39;
+	background-image: url("d:/progect/html/pepper/images/image.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.wrapper_logo_text {
+	margin-top: 0;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 72px;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 160px;
+}
+
+.The_problem {
+	position: relative;
+	height: 719px;
+	max-width: 1219px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 auto;
+	background-color: #eee;
+
+
+}
+
+.The_problem1 {
+	position: absolute;
+	width: 1110px;
+	height: 580px;
+	margin-left: 58px;
+	margin-top: 58px;
+
+
+
+}
+
+.The_problem_h {
+
+	margin-bottom: 0px;
+	padding-bottom: 16px;
+	color: #007765;
+	text-align: center;
+	font-size: 64px;
+}
+
+.The_problem_p {
+	padding: 0px;
+	padding-top: 16px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 32px;
+}
+
+.wrapper_logo1 {
+
+	height: 483px;
+	max-width: 1219px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("d:/progect/html/pepper/images/image1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.wrapper_logo_text1 {
+	margin-top: 0;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 48px;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 160px;
+}
+.intro_wrap {
+	position: relative;
+
+	max-width: 1219px;
+	min-width: 400px;
+	height: 604px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pps_logo {
+	float: left;
+	margin: 7px;
+	margin-right: 48px;
+}
+
+.wrapper_team {
+
+	position: relative;
+	height: 845px;
+	max-width: 1219px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 auto;
+	background-color: #eee;
+}
+
+.the_team {
+
+	position: absolute;
+	width: 1110px;
+	height: 703px;
+	margin-left: 58px;
+	margin-top: 58px;
+}
+
+.Team_card {
+
+	width: 350px;
+	height: 283px;
+	display: inline;
+	float: left;
+	margin: 10px;
+	text-align: center;
+
+	padding-bottom: 0;
+}
+
+
+
+
+.footer_ppr {
+	width: 1219px;
+	height: 176px;
+	background-color: #333;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.footer_text {
+
+	padding-top: 50px;
+	width: 540px;
+	height: 64px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card_name {
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: #007765;
+
+}
+
+.card_position {
+	font-size: 18px;
+	font-style: italic;
+}
